@@ -1,1 +1,2 @@
-# WOW
+# devel ✨
+Epic Discord Bot
